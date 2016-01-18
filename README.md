@@ -2,8 +2,7 @@
 
 
 * **Install manuel for GNU/Linux**
-	* Download zip file: 
-	`wget https://github.com/smehemmed/snippetC/raw/master/C.sublime-package`
+	* Download [zip file](https://github.com/smehemmed/snippetC/raw/master/C.sublime-package)
 
 	* Copy zip to Sunlime Text Package directory:
 	`sudo cp -rp C.sublime-package /opt/sublime_text/Packages/`
