@@ -29,8 +29,8 @@
 
 	* for read from file function snippet is **rdfile** + <kbd>Tab</kbd>
 
-	![](/cgif/rdfile.gif)
-	
+	![](/cgif/rdfiile.gif)
+
 
 
 
