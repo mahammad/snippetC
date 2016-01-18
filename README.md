@@ -1,7 +1,7 @@
 ###C programing language improved syntax and snippets for Sublime Text. 
 
 
-* **Install manuel for GNU/Linux**
+* **Install manual for GNU/Linux**
 	* Download [zip file](https://github.com/smehemmed/snippetC/raw/master/C.sublime-package)
 
 	* Copy zip to Sunlime Text Package directory:
