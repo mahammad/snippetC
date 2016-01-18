@@ -1,7 +1,7 @@
-C programing language improved syntax and snippets for Sublime Text. Write C code quickly :smile:
+###C programing language improved syntax and snippets for Sublime Text. 
 
 
-* Install manuel for GNU/Linux
+* **Install manuel for GNU/Linux**
 	* Download zip file: 
 	`wget https://github.com/smehemmed/snippetC/raw/master/C.sublime-package`
 
@@ -13,12 +13,25 @@ C programing language improved syntax and snippets for Sublime Text. Write C cod
 	![](/cgif/install.gif)
 
 
-* How to use snippets
+* **How to use snippets**
 
-	* for integer main function snippet is mni + <kbd>Tab</kbd>
+	* for integer main function snippet is **mni** + <kbd>Tab</kbd>
 
 	![](/cgif/maini.gif)
 
-	* for void main function snippet is mnv + <kbd>Tab</kbd>
+	* for void main function snippet is **mnv** + <kbd>Tab</kbd>
 
 	![](/cgif/mainV.gif)
+
+	* for for loop function snippet is **for** + <kbd>Tab</kbd>
+
+	![](/cgif/for.gif)
+
+	* for read from file function snippet is **rdfile** + <kbd>Tab</kbd>
+
+	![](/cgif/rdfile.gif)
+	
+
+
+
+Write C code quickly :smile:
