@@ -1,0 +1,6 @@
+<snippet>
+	<description>scanf Integer …</description>
+    <content><![CDATA[scanf("${1:%d}\\n"${1/([^%]|%%)*(%.)?.*/(?2:, :\);)/}$2${1/([^%]|%%)*(%.)?.*/(?2:\);)/}]]></content>
+    <tabTrigger>scani</tabTrigger>
+    <scope>source.c</scope>
+</snippet>

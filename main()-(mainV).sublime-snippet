@@ -1,0 +1,9 @@
+<snippet>
+	<description>main()</description>
+    <content><![CDATA[void main()
+{
+	${0:/* code */}
+}]]></content>
+    <tabTrigger>mnv</tabTrigger>
+    <scope>source.c</scope> 
+</snippet>

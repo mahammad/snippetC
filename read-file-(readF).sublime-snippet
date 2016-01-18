@@ -1,0 +1,15 @@
+<snippet>
+	<description>Read File Into Vector</description>
+    <content><![CDATA[if ((FILE${TM_C_POINTER: *}fl = fopen(${1:"filename"}, "r")) != NULL)
+{
+	while ((fscanf(fl, "%s", )) != EOF)
+	{
+		${0:/* code */}
+	}
+} else	{
+	printf("error message\n");
+}
+fclose(fl);]]></content>
+    <tabTrigger>rdfile</tabTrigger>
+    <scope>source.c</scope>
+</snippet>

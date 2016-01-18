@@ -1,0 +1,10 @@
+<snippet>
+	<description>main()</description>
+    <content><![CDATA[int main()
+{
+	${0:/* code */}
+	return 0;
+}]]></content>
+    <tabTrigger>mni</tabTrigger>
+    <scope>source.c</scope> 
+</snippet>
