@@ -8,6 +8,17 @@ C programing language improved syntax and snippets for Sublime Text. Write C cod
 	* Copy zip to Sunlime Text Package directory:
 	`sudo cp -rp C.sublime-package /opt/sublime_text/Packages/`
 
-	* Install Package from Sublime Text Browser
+	* Install Package from Sublime Text Browser `Ctrl + Shift + P`
 
 	![](/cgif/install.gif)
+
+
+* How to use snippets
+
+	* for integer main function snippet is mni + <kbd>Tab</kbd>
+
+	![](/cgif/maini.gif)
+
+	* for void main function snippet is mnv + <kbd>Tab</kbd>
+
+	![](/cgif/mainV.gif)
